@@ -1,4 +1,4 @@
-public class LinkedList {
+public class LinkedList3 {
     Node head;
     public void insertAtBegining(int data){
         Node newNode=new Node(data);
